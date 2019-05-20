@@ -1,2 +1,2 @@
 # HowTo
-A website for posting and getting "how to" solutions of your problems. 
+A website for posting your problems and getting "how to" solutions to them.
